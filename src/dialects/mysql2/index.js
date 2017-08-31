@@ -37,7 +37,8 @@ const configOptions = [
   'namedPlaceholders',
   'typeCast',
   'charsetNumber',
-  'compress'
+  'compress',
+  'authSwitchHandler'
 ];
 
 // Always initialize with the "QueryBuilder" and "QueryCompiler"
